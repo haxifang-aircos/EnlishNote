@@ -4,26 +4,34 @@ description: 'https://github.com/xiaolai/everyone-can-use-english/blob/master/ch
 
 # 第二章 口语
 
-## Getting Super Powers
+## 如何摆脱哑巴英语
 
-Becoming a super hero is a fairly straight forward process:
+问题不是“不知道该怎么说”，而是“没什么话说”。
 
-```
-$ give me super-powers
-```
+有备无患，如果现在有一场演讲，我想我会花时间提前准备“逐字稿”。
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+## 口语差或许是因为你太聪明了
 
-Once you're strong enough, save the world:
+头脑不简单的人，注定会面对很多隐含的问题，思维缜密。
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+要表达的问题，更加深层。表达的同时，还需要持续的捕捉对方的反馈。
+
+## 创作一本属于自己的口语书
+
+携带一个笔记本，每天花十到三十分钟，把你想表达的内容，用中文记录下来。
+
+坚持一段时间后，再花一点时间，用英语把这些话说出来，并且记录下来。
+
+1. 学会换一种说法
+2. 先想办法表达出来
+3. 用“意译”去代替“直译”
+4. 着重收集“不直观的对应”
+5. 使用朴素、没有修辞的中文
+
+## 小结
+
+1. 你的头脑不简单。
+2. 其实连哑巴英语都不是那么坏。“写不出”、“读不懂”、“听不见”，“说不了”，变得更“可接受”了。
 
 
 

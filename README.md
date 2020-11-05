@@ -59,7 +59,7 @@ description: 'https://github.com/xiaolai/everyone-can-use-english/blob/master/ch
 
 English, for me, freedom.
 
-## 小结
+## 总结
 
 1. 别对自己的要求太低了
 2. 足够多的输入，才能带来输出
